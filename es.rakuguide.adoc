@@ -1788,7 +1788,7 @@ say $juan;
 
 ==== Introducción
 Los métodos son las _subrutinas_ de un objeto. +
-Al igual que las subrutinas, los métodos pueden empaquetar un conjunto de funcionalidades, aceptar *argumentos*, tener una *signatura* y estar sobrecargadas con *multi*.
+Al igual que las subrutinas, los métodos pueden empaquetar un conjunto de funcionalidades, aceptar *argumentos*, tener una *signatura* y estar sobrecargados con *multi*.
 
 Los métodos se definen con la palabra clave `method` y normalmente se utilizan para realizar alguna acción sobre los atributos de los objetos, reforzando así el concepto de encapsulación donde los atributos del objeto solo pueden manipularse dentro del objeto mediante sus métodos.
 Desde fuera solo podemos acceder a los métodos de los objetos y no hay acceso directo a sus atributos.
